@@ -1,0 +1,5 @@
+SUBJECT - SOFTWARE ENGINEERING
+Experiment - 7c
+Exp Name- working with Git Commands:Local Repository
+Student Name - Nithikesh Reddy
+CSM-A
